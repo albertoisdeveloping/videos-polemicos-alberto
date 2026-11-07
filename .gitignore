@@ -1,0 +1,14 @@
+node_modules/
+.env.local
+.env*
+.DS_Store
+# lo de cada uno: sus vídeos, sus preferencias y su máquina
+proyectos/*
+!proyectos/.gitkeep
+salida/*
+!salida/.gitkeep
+preferencias.md
+maquina.md
+# regenerables
+**/ia/out/
+__pycache__/

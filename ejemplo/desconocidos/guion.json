@@ -1,0 +1,54 @@
+{
+  "titulo": "Los desconocidos deciden",
+  "idioma": "es",
+  "subtitulos": "dinamico",
+  "voz": {
+    "id": "ifAM6G3s2SdXJGYk8iKv"
+  },
+  "frases": [
+    {
+      "texto": "¿Sabías que cada vídeo que subes lo ven primero un puñado de desconocidos, y son ellos los que deciden si lo ve alguien más?",
+      "clave": "desconocidos",
+      "hook": true
+    },
+    {
+      "texto": "Tú crees que tienes trescientas visitas por tener pocos seguidores, pero ellos casi no pintan nada.",
+      "clave": "seguidores",
+      "hook": true
+    },
+    {
+      "texto": "Lo dice Instagram: cada reel que subes se lo enseña primero a un grupo pequeño que no te sigue.",
+      "dicho": "Lo dice Instagram: cada ril que subes se lo enseña primero a un grupo pequeño que no te sigue.",
+      "clave": "pequeño"
+    },
+    {
+      "texto": "Es como salir a un estadio a oscuras donde solo se enciende la primera fila.",
+      "clave": "fila"
+    },
+    {
+      "texto": "Si esa fila lo ve entero y lo envía, se enciende la siguiente, y la siguiente, hasta llenar el estadio.",
+      "clave": "llenar"
+    },
+    {
+      "texto": "Pero si pasa de largo, ahí se queda tu vídeo en trescientas visitas, y tus seguidores ni se enteran.",
+      "clave": "largo"
+    },
+    {
+      "texto": "Y esa prueba la puedes hacer tú con los trial reels, que enseñan tu vídeo solo a quien no te sigue.",
+      "dicho": "Y esa prueba la puedes hacer tú con los tráial rils, que enseñan tu vídeo solo a quien no te sigue.",
+      "clave": "solo"
+    },
+    {
+      "texto": "Subes el mismo vídeo con tres principios distintos, y al día siguiente publicas el que más gente aguantó.",
+      "clave": "tres"
+    },
+    {
+      "texto": "Así que tu alcance no lo deciden tus seguidores, lo decide esa primera fila, y tú eliges con qué vídeo sales.",
+      "clave": "eliges"
+    },
+    {
+      "texto": "Envíaselo a ese amigo que tiene un negocio y no publica nada.",
+      "clave": "nada"
+    }
+  ]
+}

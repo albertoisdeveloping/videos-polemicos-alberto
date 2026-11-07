@@ -1,0 +1,19 @@
+{
+  "titulo": "La chica que nunca fue a clase",
+  "idioma": "es",
+  "subtitulos": "dinamico",
+  "voz": { "id": "ifAM6G3s2SdXJGYk8iKv" },
+  "frases": [
+    { "texto": "¿Sabías que cada vídeo tuyo que la gente pasa de largo hace que le caigas un poco mejor?", "clave": "mejor", "hook": true },
+    { "texto": "Lo descubrieron con cuatro chicas que iban a clase sin hablar con nadie.", "clave": "chicas", "hook": true },
+    { "texto": "Una no fue nunca, otra fue cinco veces, otra diez y la última quince.", "clave": "quince" },
+    { "texto": "Llegaban, se sentaban delante de más de cien alumnos, tomaban apuntes y se iban.", "clave": "delante" },
+    { "texto": "A final de curso les enseñaron sus fotos, y ninguna les sonaba más que las otras.", "clave": "fotos" },
+    { "texto": "Pero cuantas más veces había ido una, más guapa, más lista y más maja les parecía.", "clave": "maja" },
+    { "texto": "Y con los anuncios pasa igual, porque cuantas más veces ves uno en una esquina mientras lees otra cosa, más te gusta, aunque ni te acuerdes de haberlo visto.", "clave": "gusta" },
+    { "texto": "Pues eso hacen tus vídeos cuando alguien los pasa de largo, que le vas sonando sin que se dé cuenta.", "clave": "sonando" },
+    { "texto": "Y el día que necesite lo que vendes, va a tirar del que ya le suena.", "clave": "suena" },
+    { "texto": "Así que el que no publica es la chica que nunca fue a clase.", "clave": "nunca" },
+    { "texto": "Envíaselo a ese amigo que tiene un negocio y no publica nada.", "clave": "nada" }
+  ]
+}
