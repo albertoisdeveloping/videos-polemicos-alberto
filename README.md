@@ -15,7 +15,7 @@ Mira el nivel en `ejemplo/`: cuatro reels hechos con este método, con su mp4, s
 
 ## Cómo empezar
 
-1. Descarga la carpeta (botón verde **Code → Download ZIP**, o `git clone`) y descomprímela.
+1. Descarga la carpeta (botón verde **Code → Download ZIP**, o `git clone https://github.com/albertoisdeveloping/videos-polemicos-alberto`) y descomprímela.
 2. Ábrela en la app de escritorio de **Claude** (pestaña Code → Select folder) o de **ChatGPT** (Codex → Local).
 3. Escribe **«configúrame»**. Tu IA instala lo que falta (Node, ffmpeg, `npm install`), te pregunta idioma, público y
    cierre, y te abre una página para pegar tu clave de **ElevenLabs** (la voz). La clave se pega en esa página, nunca
